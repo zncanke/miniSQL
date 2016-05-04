@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<database name="test">
+<table name="student">
+<attribute index="primary_key_of_student" length="9" name="sno" type="java.lang.String" unique="true"/>
+<attribute index="" length="17" name="sname" type="java.lang.String" unique="true"/>
+<attribute index="" length="4" name="sage" type="java.lang.Integer" unique="false"/>
+<attribute index="" length="2" name="sgender" type="java.lang.String" unique="false"/>
+</table>
+</database>

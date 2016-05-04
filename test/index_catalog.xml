@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<database name="test">
+<index base_attribute="sno" base_table="student" name="primary_key_of_student" root_index="7"/>
+</database>
